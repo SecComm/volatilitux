@@ -53,7 +53,7 @@ Volatilitux is distributed in the hope that it will be useful, but WITHOUT ANY W
 
 Requirements
 ============
-Volatilitux requires Python 2.5 or higher. It only uses builtin modules like:
+Volatilitux requires Python 2.6 or higher. It only uses builtin modules like:
   - getopt
   - xml.dom.minidom
   - os
