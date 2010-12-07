@@ -1,1 +1,0 @@
-cmd_/home/trance/volatilightux/lkm/module.ko := /home/trance/android-ndk-r4b/build/prebuilt/linux-x86/arm-eabi-4.2.1/bin/arm-eabi-ld -EL -r   --build-id -o /home/trance/volatilightux/lkm/module.ko /home/trance/volatilightux/lkm/module.o /home/trance/volatilightux/lkm/module.mod.o
