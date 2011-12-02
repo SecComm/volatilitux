@@ -42,11 +42,11 @@ class RawDump:
   
   @staticmethod
   def little_endian(dword_string):
-    return struct.unpack("L", dword_string)[0]
+    return struct.unpack("=L", dword_string)[0]
     
   @staticmethod
   def little_endian_qword(qword_string):
-    return struct.unpack("Q", qword_string)[0]
+    return struct.unpack("=Q", qword_string)[0]
 	
 	
   def read_dword(self, addr):

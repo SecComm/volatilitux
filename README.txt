@@ -1,7 +1,7 @@
 
   Volatilitux v1.0
-  by Emilien Girault <e.girault@sysdream.com | trance@segmentationfault.fr>
-  http://www.segmentationfault.fr | http://www.sysdream.com
+  by Emilien Girault <emilien.girault@sogeti.com | trance@segmentationfault.fr>
+  http://www.segmentationfault.fr | http://esec-pentest.sogeti.com/
   
 ===================================================================================================
   
